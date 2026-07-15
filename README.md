@@ -1,33 +1,198 @@
-<h1 align="center">Hi 👋, I'm Madhavilatha</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<!-- ========================= HEADER ========================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavilatha&label=Profile%20views&color=0e75b6&style=flat" alt="madhavilatha" /> </p>
+<h1 align="center">
+Hi 👋, I'm Madhavilatha
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavilatha" alt="madhavilatha" /></a> </p>
+<h3 align="center">
+🚀 Full Stack Developer • Backend Engineer • AI Enthusiast • Open Source Contributor
+</h3>
 
-- 🔭 I’m currently working on **Brand Intelligence Engine**
-
-- 🌱 I’m currently learning **DSA**
-
-- 👯 I’m looking to collaborate on [Secure Bank APP](https://github.com/madhavimadhu2655-png/SecureBank-APP)
-
-- 🤝 I’m looking for help with [Attendence Management System](https://github.com/madhavimadhu2655-png/Attendance-management-System)
-
-- 💬 Ask me about **react,express js , Java**
-
-- 📫 How to reach me **madhavimadhu2655@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mQCVDox792-6fzFC9oSUPtJTRSHOUlQ4/view?usp=drivesdk](https://drive.google.com/file/d/1mQCVDox792-6fzFC9oSUPtJTRSHOUlQ4/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Building+Scalable+Backend+Systems;React+%7C+Node.js+%7C+Java+%7C+Python;AI+Powered+Applications;Always+Learning+New+Technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=madhavimadhu2655-png&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/madhavimadhu2655-png?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/madhavimadhu2655-png?style=for-the-badge&logo=github"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavilatha&show_icons=true&locale=en&layout=compact" alt="madhavilatha" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhavilatha&show_icons=true&locale=en" alt="madhavilatha" /></p>
+# 💫 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavilatha&" alt="madhavilatha" /></p>
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+🎯 Full Stack Developer passionate about building scalable web applications
+
+💻 Strong interest in Backend Development & System Design
+
+🌱 Currently learning
+
+- Data Structures & Algorithms
+- Advanced Backend Development
+- Cloud Computing
+- System Design
+
+🚀 Currently Building
+
+- 🌐 Brand Intelligence Engine
+- 🏦 Secure Bank Application
+- 📊 Attendance Management System
+
+💬 Ask me about
+
+- React.js
+- Node.js
+- Express.js
+- Java
+- REST APIs
+- MongoDB
+- PostgreSQL
+
+📫 Email
+
+**madhavimadhu2655@gmail.com**
+
+📄 Resume
+
+https://drive.google.com/file/d/1mQCVDox792-6fzFC9oSUPtJTRSHOUlQ4/view
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/madhavimadhu2655-png">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="mailto:madhavimadhu2655@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,nextjs" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,python,fastapi" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase" />
+</p>
+
+## AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+## DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode,postman" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=madhavimadhu2655-png&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=madhavimadhu2655-png&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=madhavimadhu2655-png&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavimadhu2655-png&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavimadhu2655-png&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/madhavimadhu2655-png/madhavimadhu2655-png/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🌐 Brand Intelligence Engine | AI-powered web crawling and intelligence platform | FastAPI • PostgreSQL • MongoDB • Redis |
+| 🏦 Secure Bank Application | Secure banking system with authentication | React • Node.js • MongoDB |
+| 📊 Attendance Management System | Role-based attendance platform | React • Express • MySQL |
+| 👗 AI Virtual Dressing Room | AI-powered virtual try-on system | React • Python • OpenCV |
+
+---
+
+# 📚 Currently Learning
+
+```text
+✔ Advanced React
+✔ System Design
+✔ Microservices
+✔ Docker
+✔ Kubernetes
+✔ AWS
+✔ CI/CD
+✔ DSA
+```
+
+---
+
+# 💡 Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**If you like my projects, don't forget to Star ⭐ them.**
+
+</p>
