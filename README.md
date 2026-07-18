@@ -96,11 +96,7 @@ funFact: I debug better with coffee ☕ and worse with silence 😅
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
 <!-- ========================= TROPHIES ========================= -->
-## 🏆 GitHub Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=madhavimadhu2655-png&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
 
 <!-- ========================= STATS ========================= -->
 ## 📈 GitHub Statistics
